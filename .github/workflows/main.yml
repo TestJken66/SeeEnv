@@ -29,3 +29,4 @@ jobs:
       - name: Echo proxy
         run: |
           echo "android_home:$ANDROID_HOME"
+          $ANDROID_HOME/
